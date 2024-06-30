@@ -1,5 +1,7 @@
 **Developing an Image Classifier with Deep Learning**
+
 **Specifications**
+
 The project includes at least two files **train.py** and **predict.py**. The first file, train.py, will train a new network on a dataset and save the model as a checkpoint. The second file, predict.py, uses a trained network to predict the class for an input image. Feel free to create as many other files as you need. Our suggestion is to create a file just for functions and classes relating to the model and another one for utility functions like loading data and preprocessing images. Make sure to include all files necessary to run train.py and predict.py in your submission.
 
 1. Train
